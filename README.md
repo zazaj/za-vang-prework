@@ -1,4 +1,4 @@
 # za-vang-prework
 HTML and Basic CSS Assessment
-## Authors
+## Author
 * **Za Vang**

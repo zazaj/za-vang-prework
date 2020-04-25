@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   text-transform: uppercase;
   color: white;
@@ -33,6 +37,19 @@ h3 {
 
 .jumbotron-custom {
   height: 93.9vh;
+}
+
+@media screen and (max-width: 768px) {
+  h1{
+    font-size: 50px;
+  }
+  .navbar-custom { 
+    background-color: brown; 
+  }
+
+  .font-custom {
+    font-style: italic;
+  }
 }
 
 

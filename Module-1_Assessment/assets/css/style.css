@@ -1,0 +1,54 @@
+.portfolio-img {
+    position: relative;
+}
+
+.portfolio-caption {
+    z-index: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 1.5em;
+    position: absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    bottom: 5%;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.content-background {
+    background-color: #ffffff;
+}
+
+.content-custom{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #777777;
+    border-color: #dddddd;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.heading-custom {
+    margin-top: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
+
+.navbar-name-custom {
+    font-size: 2.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+}
+
+.footer-custom {
+    background-color: #666666;
+}
+
+body {
+    background-image: url("../images/brickwall.png");
+    background-color: #cccccc;
+}
+
